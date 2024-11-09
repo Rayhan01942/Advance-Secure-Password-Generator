@@ -18,3 +18,6 @@ A professional and user-friendly tool to generate, save, and recover secure pass
 ```bash
 git clone https://github.com/yourusername/password-generator-tool.git
 cd password-generator-tool
+
+python Password Generator.py
+
